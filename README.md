@@ -187,7 +187,7 @@ A modern web application for managing resources and administrative operations wi
 </p>
 
 <p align="center">
-  📧 <strong>saviruranasinghe27@gmaul.com</strong>
+  📧 <strong>saviruranasinghe27@gmail.com</strong>
 </p>
 
 ---
