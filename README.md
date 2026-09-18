@@ -1,8 +1,13 @@
-<h1 align="center">Hi , I'm Saviru Ranasinghe</h1>
+<h1 align="center">Hi 👋, I'm Saviru Ranasinghe</h1>
 <h3 align="center">Computing Undergraduate | Mobile Developer | Frontend Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=savirudev&label=Profile%20views&color=0e75b6&style=flat" alt="savirudev" />
+</p>
+
+<!-- GitHub Contribution Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/savirudev/savirudev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
