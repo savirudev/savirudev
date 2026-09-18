@@ -1,197 +1,46 @@
-# 👋 Hi, I'm Saviru Ranasinghe
-
-### 💻 Computing Undergraduate | 📱 Mobile Developer | 🌐 Full-Stack Developer
-
-I'm a Computing undergraduate passionate about building modern, user-friendly applications and turning ideas into practical digital solutions.
-
-I enjoy developing mobile and web applications, creating reusable components, working with APIs, and continuously learning new technologies.
-
----
-
-## 👨‍💻 About Me
-
-* 🎓 BSc (Hons) in Computing Undergraduate
-* 📱 Focused on Mobile Application Development
-* 🌐 Interested in Full-Stack Web Development
-* 🎨 Interested in UI/UX and user-friendly application design
-* 🔌 Experience working with REST APIs
-* ☁️ Learning Cloud Computing and AWS
-* 🔐 Exploring Cybersecurity
-* 🚀 Interested in building practical software solutions
-* 🤝 Interested in collaborating on software development projects
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
+<h1 align="center">Hi , I'm Saviru Ranasinghe</h1>
+<h3 align="center">Computing Undergraduate | Mobile Developer | Frontend Developer</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,python,js,ts,php,dart" />
-</p>
-
-### 🌐 Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
-</p>
-
-### ⚙️ Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs" />
-</p>
-
-### 📱 Mobile Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" />
-</p>
-
-### 🗄️ Databases & Services
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-</p>
-
-### 🧰 Tools & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,gradle" />
+  <img src="https://komarev.com/ghpvc/?username=savirudev&label=Profile%20views&color=0e75b6&style=flat" alt="savirudev" />
 </p>
 
 ---
 
-## 📱 Mobile Development
+### About Me
 
-I am particularly interested in developing modern Android applications with clean and responsive user interfaces.
-
-**Technologies & Concepts:**
-
-* Kotlin
-* Jetpack Compose
-* Android Studio
-* MVVM Architecture
-* REST API Integration
-* Retrofit
-* DataStore
-* Authentication & Authorization
-* Navigation
-* Form Validation
-* Image Upload
-* Responsive UI
+- I'm currently working on mobile and web applications, creating reusable components, and API integration.
+- Currently learning **Cloud Computing (AWS)** and exploring **Cybersecurity**.
+- Reach me at: **saviruranasinghe27@gmail.com**
 
 ---
 
-## 🌐 Full-Stack Development
+### Connect With Me
 
-I also enjoy developing complete web applications from frontend interfaces to backend services and databases.
-
-**Frontend:**
-
-* React
-* Next.js
-* TypeScript
-* JavaScript
-* HTML
-* CSS
-* Tailwind CSS
-* Bootstrap
-
-**Backend:**
-
-* Laravel
-* Node.js
-* REST APIs
-
-**Database:**
-
-* MySQL
-* MongoDB
-* Firebase
-
----
-
-## 🚀 Featured Projects
-
-### 📱 Cango – Mobile Application
-
-A modern Android application focused on providing a user-friendly mobile experience.
-
-**Technologies:**
-`Kotlin` `Jetpack Compose` `MVVM` `Retrofit` `DataStore`
-
----
-
-### 🌐 Company Portal
-
-A web-based company management system designed to manage employees, departments, announcements, and administrative operations.
-
-**Technologies:**
-`Laravel` `PHP` `MySQL` `Blade` `Tailwind CSS`
-
----
-
-### 🏢 RPTA Management System
-
-A modern web application for managing resources and administrative operations with a structured and reusable frontend architecture.
-
-**Technologies:**
-`Next.js` `React` `TypeScript` `Tailwind CSS` `REST APIs`
-
----
-
-## 📚 Currently Learning
-
-* 🚀 Advanced Laravel
-* ⚛️ React & Next.js
-* 🔌 REST API Development
-* ☁️ AWS & Cloud Computing
-* 🔐 Cybersecurity
-* 🐳 Docker
-* 🧪 Software Testing & Quality Assurance
-* 🏗️ Software Architecture & System Design
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=savirudev&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=savirudev&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savirudev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/saviru-ranasinghe-182295315">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://me.developers.google.com/u/118195276396845801919">
-    <img src="https://skillicons.dev/icons?i=google" width="45" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/saviru-ranasinghe-182295315" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-<p align="center">
-  📧 <strong>saviruranasinghe27@gmail.com</strong>
+---
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,php,dart,html,css,bootstrap,react,nextjs,nodejs,laravel,mysql,mongodb,firebase,docker,git" />
 </p>
 
 ---
 
+### Key Focus & Core Skills
+
+* **Mobile Development:** Kotlin, Jetpack Compose, Android Studio, MVVM Architecture, Retrofit, DataStore
+* **Full-Stack Web:** React, Next.js, TypeScript, Node.js, REST APIs
+* **Databases & DevOps:** MySQL, MongoDB, Firebase, Docker, Git & GitHub
+
+---
+
 <p align="center">
-  <i>🚀 Always learning. Always building. Always improving.</i>
+  <i>Always learning. Always building. Always improving.</i>
 </p>
