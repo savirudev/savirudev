@@ -33,7 +33,7 @@
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,Jetpack Compose,js,ts,php,html,css,react,nextjs,nodejs,postgresql,mongodb,firebase,docker,git" />
+  <img src="https://skillicons.dev/icons?i=Kotlin,,js,ts,php,html,css,react,nextjs,nodejs,postgresql,mongodb,firebase,docker,git" />
 </p>
 
 ---
