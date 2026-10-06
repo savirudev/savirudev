@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saviru Ranasinghe</h1>
+<h1 align="center">Hi, I'm Saviru Ranasinghe</h1>
 <h3 align="center">Computing Undergraduate | Mobile Developer | Frontend Developer</h3>
 
 <p align="center">
@@ -42,7 +42,7 @@
 
 * **Mobile Development:** Kotlin, Jetpack Compose, Android Studio, MVVM Architecture, Retrofit, DataStore
 * **Full-Stack Web:** React, Next.js, TypeScript, Node.js, REST APIs
-* **Databases & DevOps:** MySQL, MongoDB, Firebase, Docker, Git & GitHub
+* **Databases & DevOps:** PostgreSQL, MongoDB, Firebase, Docker, Git & GitHub
 
 ---
 
